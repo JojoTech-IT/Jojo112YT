@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Jojo112YT
-- 👀 I’m interested in ...
+- 👀 I’m interested in SysAdmin
 - 🌱 I’m currently learning Django, SQL, Powershell and Bash
 
 <!---
