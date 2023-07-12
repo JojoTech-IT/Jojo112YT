@@ -5,7 +5,7 @@ You can click the Preview link to take a look at your changes.
 <h1 align="center">Bonjour 👋, Je suis Jojo</h1>
 <h3 align="center">Etudiant en LPARS et Apprenti chez INDEXWARE</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jojo112yt&label=Profile%20views&color=0e75b6&style=flat" alt="jojo112yt" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=JojoTech-IT&label=Profile%20views&color=0e75b6&style=flat" alt="jojo112yt" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jojo112yt" alt="jojo112yt" /></a> </p>
 
