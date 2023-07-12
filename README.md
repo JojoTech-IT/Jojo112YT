@@ -2,7 +2,7 @@
 Jojo112YT/Jojo112YT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<h1 align="center">Bonjour 👋, Je suis Jojo_11YT</h1>
+<h1 align="center">Bonjour 👋, Je suis Jojo</h1>
 <h3 align="center">Etudiant en LPARS et Apprenti chez INDEXWARE</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jojo112yt&label=Profile%20views&color=0e75b6&style=flat" alt="jojo112yt" /> </p>
