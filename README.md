@@ -2,15 +2,14 @@
 Jojo112YT/Jojo112YT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<h1 align="center">Bonjour 👋, Je suis Jojo</h1>
+<h1 align="center">Bonjour 👋, je suis Jojo</h1>
 <h3 align="center">Etudiant en LPARS et Apprenti chez INDEXWARE</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=JojoTech-IT&label=Profile%20views&color=0e75b6&style=flat" alt="jojo112yt" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=JojoTech-IT" alt="JojoTech-IT" /></a> </p>
 
-- 🔭 Je suis en train de travailler sur le **projet de migration de GLPI**
-
+- 🔭 Je suis en train de travailler sur le **projet de migration de GLPI** pour le compte d'INDEXWARE.
 - 👯 Je collabore également sur le projet **projet-muthtruck**
 - 👀 Je suis intéressé par l'AdminSys
 - 🌱 Je suis en train d'apprendre Django, SQL, Powershell and Bash
