@@ -3,7 +3,7 @@ Jojo112YT/Jojo112YT is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 <h1 align="center">Bonjour 👋, je suis Jojo</h1>
-<h3 align="center">Etudiant en LPARS et Apprenti chez INDEXWARE</h3>
+<h3 align="center">SysAdmin</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=JojoTech-IT&label=Profile%20views&color=0e75b6&style=flat" alt="jojo112yt" /> </p>
 
